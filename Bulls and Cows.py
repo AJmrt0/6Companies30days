@@ -1,3 +1,5 @@
+#6Companies30days
+Collection of LeetCode questions to ace the coding interview!
 class Solution(object):
     def getHint(self, secret, guess):
         """
