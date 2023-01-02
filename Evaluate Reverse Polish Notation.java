@@ -1,3 +1,5 @@
+# 6Companies30days
+Collection of LeetCode questions to ace the coding interview!
 class Solution {
     public int evalRPN(String[] tokens) {
         if (tokens.length == 0 || tokens == null)
