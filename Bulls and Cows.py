@@ -1,4 +1,11 @@
 #6Companies30days
+
+/LEETCODE 299. BULLS AND COWS
+//TIME COMPLEXITY: O(N)
+//SPACE COMPLEXITY: O(10)
+    
+    
+    
 Collection of LeetCode questions to ace the coding interview!
 class Solution(object):
     def getHint(self, secret, guess):
