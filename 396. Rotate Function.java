@@ -1,3 +1,8 @@
+COMPLEXITY:
+
+Time: O(n)
+Space: O(1)
+  
 class Solution {
   public int maxRotateFunction(int[] nums) {
     final int sum = Arrays.stream(nums).sum();
