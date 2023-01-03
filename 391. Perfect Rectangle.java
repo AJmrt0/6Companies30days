@@ -1,3 +1,6 @@
+#6Companies30days
+Time: O(n)
+Space: O(n)
 class Solution {
  public:
   bool isRectangleCover(vector<vector<int>>& rectangles) {
